@@ -1,0 +1,58 @@
+#left-panel{
+    font-size: 16px;
+    background-color:rgb(247,240,224);
+   
+}
+.pa{
+    font-size: 16px;
+    background-color:rgb(247,240,224);
+}
+.toto{
+    text-align: center;
+}
+#name{
+background-color: rgb(247,240,224);
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+nav li{
+    display: inline;
+    margin: 0 1em 0 1em;
+}
+.slider{
+    display: flex ;
+    flex-wrap: wrap;
+    margin: 20px 40px 20px 40px;
+    margin:0 auto;
+    width: 450px;
+    height: 450px;
+}
+.con{
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(160,146,145);
+}
+.art-re{
+    margin-top: 15px ;
+   
+    margin: 20px auto;
+    padding: 20px ;
+    background-color: rgb(223,197,174);
+    float: center;
+    
+    color: rgb(160,146,145);
+}
+.button:hover{
+    margin: 15px ;
+    padding: 10px;
+    transform: scale(1.5);
+        
+}
+.con article{
+    width: 280px;
+}
